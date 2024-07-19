@@ -1,0 +1,10 @@
+ShipTo,Plant,ShippingCost
+s1,p1,0.1
+s1,p2,0.15
+s1,p3,0.2
+s2,p1,0.2
+s2,p2,0.25
+s2,p3,0.3
+s3,p1,0.3
+s3,p2,0.35
+s3,p3,0.4
